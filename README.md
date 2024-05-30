@@ -1,5 +1,18 @@
 # ft-transcendence
 
+<p align="center">
+  <img src="frontend-app/public/ft_transcendencee.png" alt="ft_transcendance 42 project badge"/>
+</p>
+
+ft_transcendance is a 42 school team project where we must build a website where users can create accounts via the 42 API, play a real-time multiplayer game of Pong, and chat in public and private chat rooms.
+
+This project is made with:
+
+- [docker & docker-compose](https://www.docker.com/)
+- [React](https://react.dev/)
+- [NestJS](https://nestjs.com/)
+- [Postgresql](https://www.postgresql.org/)
+
 # 🚀 Guidelines for ft_transcendence
 
 ## 🔀 Branch workflow
